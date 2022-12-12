@@ -135,6 +135,19 @@ header nav li:last-child{
 @media (max-width: 1000px){
 	header{
 		padding: 20px 50px;
+		flex-direction: column;
+		position: absolute;
+		left: 465.06px;
+		top: 179.95999999999998px;
+		font-family: 'Neue Machina';
+		font-style: normal;
+		font-weight: 300;
+		font-size: 13px;
+		line-height: 13px;
+		text-align: right;
+		text-transform: uppercase;
+		color: #1F2839;
+		transform: rotate(90deg);
 	}
 }
 
@@ -142,7 +155,7 @@ header nav li:last-child{
 	header{
 		flex-direction: column;	
 		position: absolute;
-		left: 172.06px;
+		left: 184.06px;
 		top: 179.95999999999998px;
 		font-family: 'Neue Machina';
 		font-style: normal;
@@ -153,9 +166,11 @@ header nav li:last-child{
 		text-align: right;
 		text-transform: uppercase;
 		color: #1F2839;
-		transform: rotate(90deg);		
+		transform: rotate(90deg);
 	}
 
+
+	
 	header h2{
 		margin-bottom: 15px;
 	}
@@ -210,7 +225,8 @@ header nav li:last-child{
 @media (max-width: 800px){
 
 	.hero{
-		min-height: 365px;
+		/* min-height: 365px; */
+		min-height: 320px;
 	}
 
 	.hero h1{
@@ -234,7 +250,8 @@ header nav li:last-child{
 }
 
 .our-work .grid li{
-	padding: 20px;
+	/* padding: 20px; */
+	padding: 0px;
 	height: 350px;
 	border-radius: 3px;
 
