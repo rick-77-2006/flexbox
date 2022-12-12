@@ -142,9 +142,8 @@ header nav li:last-child{
 	header{
 		flex-direction: column;	
 		position: absolute;
-
-left: 172.06px;
-top: 179.95999999999998px;
+		left: 172.06px;
+		top: 179.95999999999998px;
 		font-family: 'Neue Machina';
 		font-style: normal;
 		font-weight: 300;
@@ -153,9 +152,7 @@ top: 179.95999999999998px;
 		/* identical to box height */
 		text-align: right;
 		text-transform: uppercase;
-		
 		color: #1F2839;
-		
 		transform: rotate(90deg);		
 	}
 
