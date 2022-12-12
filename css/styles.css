@@ -1,6 +1,4 @@
-/*-------------
- 	General
--------------*/
+/* General */
 
 *{
 	margin: 0;
@@ -203,7 +201,7 @@ header nav li:last-child{
 @media (max-width: 800px){
 
 	.hero{
-		min-height: 600px;
+		min-height: 365px;
 	}
 
 	.hero h1{
