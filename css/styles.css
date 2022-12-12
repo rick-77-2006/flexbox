@@ -8,7 +8,7 @@
 
 html{
 	font: normal 16px sans-serif;
-	color: #555;
+	/* color: #555; */
 }
 
 ul, nav{
@@ -30,10 +30,15 @@ a:hover{
 a.btn{
 	color: rgb(20, 20, 20);
 	border-radius: 4px;
-	text-transform: uppercase;
-	background-color: #2196F3;
-	font-weight: 800;
+	/* text-transform: uppercase; */
+	background-color: #d6dce1;
+	/* font-weight: 800; */
 	text-align: center;
+	font-family: 'Neue Machina';
+	font-style: normal;
+	font-weight: 300;
+	font-size: 32px;
+	line-height: 31px;
 }
 
 hr{
@@ -116,7 +121,7 @@ header nav{
 }
 
 header nav li{
-	margin: 0 15px;
+	margin: 0 13px;
 }
 
 header nav li:first-child{
@@ -135,7 +140,23 @@ header nav li:last-child{
 
 @media (max-width: 700px){
 	header{
-		flex-direction: column;		
+		flex-direction: column;	
+		position: absolute;
+
+left: 172.06px;
+top: 179.95999999999998px;
+		font-family: 'Neue Machina';
+		font-style: normal;
+		font-weight: 300;
+		font-size: 13px;
+		line-height: 13px;
+		/* identical to box height */
+		text-align: right;
+		text-transform: uppercase;
+		
+		color: #1F2839;
+		
+		transform: rotate(90deg);		
 	}
 
 	header h2{
