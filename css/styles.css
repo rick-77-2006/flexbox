@@ -464,3 +464,201 @@ footer p a{
 /* @media (max-width: 1200px) {
 	#bsaHolder{ display:none;}
 } */
+
+.group48-container {
+	min-height: 100vh;
+  }
+  .group48-group48 {
+	width: 996.2010498046875px;
+	height: 196.032470703125px;
+	display: flex;
+	padding: 0;
+	position: relative;
+	align-self: auto;
+	box-sizing: border-box;
+	align-items: flex-start;
+	flex-shrink: 1;
+	border-color: transparent;
+	border-style: none;
+	border-width: 0;
+	margin-right: 0;
+	border-radius: 0px 0px 0px 0px;
+	margin-bottom: 0;
+	flex-direction: row;
+	justify-content: flex-start;
+	background-color: transparent;
+  }
+  .group48-group43 {
+	top: 145.3193359375px;
+	left: 223.3173828125px;
+	width: 45.02898406982422px;
+	height: 43.71302032470703px;
+	display: flex;
+	padding: 0;
+	position: absolute;
+	align-self: auto;
+	box-sizing: border-box;
+	align-items: flex-start;
+	flex-shrink: 1;
+	border-color: transparent;
+	border-style: none;
+	border-width: 0;
+	border-radius: 0px 0px 0px 0px;
+	flex-direction: row;
+	justify-content: flex-start;
+	background-color: transparent;
+  }
+  .group48-s-v-g {
+	top: 0px;
+	left: 0px;
+	width: 45px;
+	height: 44px;
+	position: absolute;
+	box-sizing: content-box;
+  }
+  .group48-s-v-g1 {
+	top: 0px;
+	left: 0px;
+	width: 45px;
+	height: 44px;
+	position: absolute;
+	box-sizing: content-box;
+  }
+  .group48-group47 {
+	top: 0px;
+	left: 0px;
+	width: 996.2010498046875px;
+	height: 196.032470703125px;
+	display: flex;
+	padding: 0;
+	position: absolute;
+	align-self: auto;
+	box-sizing: border-box;
+	align-items: flex-start;
+	flex-shrink: 1;
+	border-color: transparent;
+	border-style: none;
+	border-width: 0;
+	border-radius: 0px 0px 0px 0px;
+	flex-direction: row;
+	justify-content: flex-start;
+	background-color: transparent;
+  }
+  .group48-group6 {
+	top: 4.135498046875px;
+	left: 0px;
+	width: 996.2009887695312px;
+	height: 191.89697265625px;
+	display: flex;
+	padding: 0;
+	position: absolute;
+	align-self: auto;
+	box-sizing: border-box;
+	align-items: flex-start;
+	flex-shrink: 1;
+	border-color: transparent;
+	border-style: none;
+	border-width: 0;
+	border-radius: 0px 0px 0px 0px;
+	flex-direction: row;
+	justify-content: flex-start;
+	background-color: transparent;
+  }
+  .group48-group5 {
+	top: 0px;
+	left: 0px;
+	width: 911.52685546875px;
+	height: 191.89697265625px;
+	display: flex;
+	padding: 0;
+	position: absolute;
+	align-self: auto;
+	box-sizing: border-box;
+	align-items: flex-start;
+	flex-shrink: 1;
+	border-color: transparent;
+	border-style: none;
+	border-width: 0;
+	border-radius: 0px 0px 0px 0px;
+	flex-direction: row;
+	justify-content: flex-start;
+	background-color: transparent;
+  }
+  .group48-text {
+	left: 611.9248046875px;
+	color: rgba(31, 40, 57, 1);
+	width: 300px;
+	height: auto;
+	position: absolute;
+	font-size: 27.34798240661621px;
+	align-self: auto;
+	font-style: ExtraLight;
+	text-align: left;
+	font-family: Manrope;
+	font-weight: 200;
+	line-height: 127.99999713897705%;
+	font-stretch: normal;
+	text-decoration: none;
+  }
+  .group48-text5 {
+	top: 121.89697265625px;
+	color: rgba(31, 40, 57, 1);
+	width: 254px;
+	height: auto;
+	position: absolute;
+	font-size: 27.34798240661621px;
+	align-self: auto;
+	font-style: ExtraLight;
+	text-align: left;
+	font-family: Manrope;
+	font-weight: 200;
+	line-height: 127.99999713897705%;
+	font-stretch: normal;
+	text-decoration: none;
+  }
+  .group48-line7 {
+	top: 36.1383056640625px;
+	left: 891.692626953125px;
+	width: 105px;
+	height: 0px;
+	position: absolute;
+  }
+  .group48-line6 {
+	top: 178.54638671875px;
+	left: 174.4267578125px;
+	width: 69px;
+	height: 0px;
+	position: absolute;
+  }
+  .group48-b-u-s-i-n-e-s-s {
+	top: 0px;
+	left: 1.604248046875px;
+	width: 576px;
+	height: 84px;
+	position: absolute;
+	box-sizing: content-box;
+  }
+  .group48-assistants {
+	top: 105.014404296875px;
+	left: 277.97265625px;
+	width: 718px;
+	height: 84px;
+	position: absolute;
+	box-sizing: content-box;
+  }
+  .group48-subtract {
+	top: 0px;
+	left: 430.54296875px;
+	width: 68px;
+	height: 84px;
+	position: absolute;
+	box-sizing: content-box;
+  }
+  .group48-subtract1 {
+	top: 105.014404296875px;
+	left: 430.54296875px;
+	width: 68px;
+	height: 84px;
+	position: absolute;
+	box-sizing: content-box;
+  } 
