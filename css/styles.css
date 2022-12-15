@@ -109,8 +109,8 @@ ul.grid{
 
 header{
 	position: absolute;
-	top: 0;
-	left: 0;
+	left: 452.06px;
+	top: 460.96px;
 	z-index: 10;
 	width: 100%;
 	display: flex;
@@ -118,6 +118,7 @@ header{
 	align-items: center;
 	/* color: #fff; */
 	padding: 35px 100px 0;
+	transform: rotate(90deg);
 }
 
 header h2{
@@ -145,7 +146,7 @@ header nav li:last-child{
 		padding: 20px 50px;
 		flex-direction: column;
 		position: absolute;
-		left: 465.06px;
+		left: 452.06px;
 		top: 179.95999999999998px;
 		font-family: 'Neue Machina';
 		font-style: normal;
@@ -163,7 +164,7 @@ header nav li:last-child{
 	header{
 		flex-direction: column;	
 		position: absolute;
-		left: 175.6px;
+		left: 154.6px;
 		top: 179.95999999999998px;
 		font-family: 'Neue Machina';
 		font-style: normal;
@@ -583,6 +584,12 @@ footer p a{
 	flex-direction: row;
 	justify-content: flex-start;
 	background-color: transparent;
+
+	color: #414a4f;
+	text-transform: capitalize; 
+	/* font: bold 32px 'Open Sans', sans-serif; */
+	margin-bottom: 35px;
+	text-align: center;
   }
   .group48-text {
 	left: 611.9248046875px;
