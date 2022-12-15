@@ -534,7 +534,7 @@ footer p a{
 	height: 196.032470703125px;
 	display: flex;
 	padding: 0;
-	position: absolute;
+	/* position: absolute; */
 	align-self: auto;
 	box-sizing: border-box;
 	align-items: flex-start;
