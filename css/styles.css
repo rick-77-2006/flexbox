@@ -236,6 +236,12 @@ header nav li:last-child{
 		min-height: 320px;
 	}
 
+@media (max-width: 800px) {
+		.group48-container h3 {
+			/* min-height: 365px; */
+			min-height: 320px;
+		}
+
 	.hero h1{
 		font-size: 48px;
 	}
@@ -252,9 +258,9 @@ header nav li:last-child{
 
 /* Our Work Section */
 
-.оur-work{
-	/* background-color: #fff; */
-}
+/* .оur-work {
+	background-color: #fff;
+} */
 
 .our-work .grid li{
 	/* padding: 20px; */
@@ -470,7 +476,7 @@ footer p a{
 	min-height: 100vh;
   }
   .group48-group48 {
-	width: 996.2010498046875px;
+	width: center;
 	height: 196.032470703125px;
 	display: flex;
 	padding: 0;
