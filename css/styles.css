@@ -202,7 +202,7 @@ header nav li:last-child{
 	width: 115%;
 	height: 100%;
 	/* background-size: cover; */
-	background-color: #2196F3;
+	/* background-color: #2196F3; */
 	z-index: -1;
 }
 
