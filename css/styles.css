@@ -68,7 +68,7 @@ section{
 @media (max-width: 600px){
 
 	section{
-		padding: 80px 30px;
+		padding: 15px 0px;
 	}
 
 }
@@ -471,6 +471,8 @@ footer p a{
 .group48-container {
 	/* min-height: 100vh; */
 	min-height: 20vh;
+	
+	
   }
   .group48-group48 {
 	width: center;
